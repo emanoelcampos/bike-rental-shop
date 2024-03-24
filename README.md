@@ -1,5 +1,7 @@
 # Bike Rental Shop
 
+*Learning documentation*
+
 This project was developed as part of the **Learn Bash and SQL by Building a Bike Rental Shop** course, which is included in the [Relational Database](https://www.freecodecamp.org/learn/relational-database/) certification from **freeCodeCamp**. The course consists of **210 lessons** that guide the creation of an interactive `Bash` program that stores rental information for a bike rental shop using `PostgreSQL`.
 
 ## Database Diagram
